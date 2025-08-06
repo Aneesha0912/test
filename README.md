@@ -12,5 +12,5 @@
 
 
 
-!\[C programming certificate](c\_programming)
+!\[C programming certificate](c programming/C Intermediate Certificate Sololearn.jpg)
 
